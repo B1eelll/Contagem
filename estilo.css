@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(31, 24, 134);
+}
+header{
+    display: block;
+    color: white;
+    text-align: center;
+    font: 25pt arial
+}
+section{
+    display: block;
+    background-color: white;
+    padding: 15px;
+    margin: auto;
+    width: 500px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+}
+#div1{
+    display: block;
+    margin-top: 25px;
+}
+#div2{
+    display: block;
+    margin-top: 25px;
+}
+#inicio{
+    display: block;
+    margin-bottom: 5px;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font: 10pt arial;
+}
+
+#fim{
+    display: block;
+    margin-bottom: 5px;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font: 10pt arial;
+}
+#passo{
+    display: block;
+    margin-top: 25px;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font: 10pt arial;
+}
+#dequanto{
+    box-shadow: 5px 5px 7px black;
+}
+#numero{
+    box-shadow: 5px 5px 7px black;
+}
+#ate{
+    box-shadow: 5px 5px 7px black;
+}
+#contagem{ /*botão*/
+    font: 30pt arial;
+    font-style: oblique;
+    display: block;
+    width: 250px;
+    height: 200px;
+    float: right;
+    box-shadow: 5px 5px 7px black;
+    cursor: pointer;
+}
+#resultadoc{
+    font: 20pt arial;
+    margin-top: 20px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    margin-top: 40px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+
